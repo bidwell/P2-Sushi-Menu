@@ -1,5 +1,9 @@
 @charset "utf-8";
 /* CSS Document */
+body {
+	background:url(../img/waves.jpg) repeat;
+	
+	}
 .red {
 	outline: 1px solid red;
 	
@@ -22,6 +26,7 @@
 	height: 75px;
 	color: #333;
 	font-weight:600;
+	margin-left: 30px;
 	
 }
 
@@ -34,3 +39,15 @@
 	color:#FFFFFF;
 	
 }
+.spicy {
+	height:92px;
+	width:15px;
+	background-color:#990000;
+	
+	}
+.raw {
+	height:92px;
+	width:15px;
+	background-color: #F9C;
+	
+	}
