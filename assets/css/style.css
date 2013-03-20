@@ -8,7 +8,29 @@
 	margin:30px 0px 30px 0px;
 	
 }
-.rest {
-	margin:30px 0px 30px 0px;
+.accordion-group {
+	margin-bottom: 10px;
+	
+}
+.accordion-heading {
+	
+	background: #CCC;
+	
+	}
+.accordion-toggle {
+	
+	height: 75px;
+	color: #333;
+	font-weight:600;
+	
+}
+
+.accordion-toggle:hover {
+	color: #C30;
+	text-decoration:none;
+}
+.accordion-inner {
+	background-color:#333;
+	color:#FFFFFF;
 	
 }
