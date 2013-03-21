@@ -22,9 +22,8 @@ body {
 	
 	}
 .accordion-toggle {
-	
-	height: 75px;
-	color: white;
+	height: 134px;
+	color: #666;
 	font-weight:600;
 	margin-left: 30px;
 	
@@ -39,16 +38,29 @@ body {
 	color:#FFFFFF;
 	
 }
+.legend {
+	height: 50px;
+	width: 370px;
+	
+	
+	}
+.legend p {
+	padding-top: 10px;
+	
+	
+	}
 .spicy {
-	height:92px;
+	height:150px;
 	width:15px;
-	background-color:#990000;
+	background-color:#C30;
+	float:left;
 	
 	}
 .raw {
-	height:92px;
+	height:150px;
 	width:15px;
 	background-color: #F9C;
+	float:left;
 	
 	}
 
@@ -58,26 +70,33 @@ body {
 	color: white;
 }
 .prodImageOne {
-	background-image: url(../img/one.jpg);
+	background: url(../img/one.jpg) no-repeat;
 }
 .prodImageTwo{
-	background-image: url(../img/two.jpg);
+	background: url(../img/two.jpg) no-repeat;
 }
 .prodImageThree {
-	background-image: url(../img/three.jpg);
+	background: url(../img/three.jpg) no-repeat;
 }
 .prodImageFour {
-	background-image: url(../img/four.jpg);
+	background: url(../img/four.jpg) no-repeat;
 }
 .prodImageFive {
-	background-image: url(../img/five.jpg);
+	background: url(../img/five.jpg) no-repeat;
 }
 .prodImageSix {
-	background-image: url(../img/six.jpg);
+	background: url(../img/six.jpg) no-repeat;
 }
 .prodImageSeven {
-	background-image: url(../img/seven.jpg);
+	background: url(../img/seven.jpg) no-repeat;
 }
 .prodImageEight {
-	background-image: url(../img/eight.jpg);
+	background: url(../img/eight.jpg) no-repeat;
 }
+.cl {
+	clear:left;
+}
+.sm {
+	height: 40px;
+	
+	}
