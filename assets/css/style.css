@@ -12,6 +12,10 @@ body {
 	margin:30px 0px 30px 0px;
 	
 }
+.accordion {
+	margin-top: 40px;
+	
+	}
 .accordion-group {
 	margin-bottom: 10px;
 	
@@ -45,7 +49,8 @@ body {
 	
 	}
 .legend p {
-	padding-top: 10px;
+	padding: 10px 0px 0px 20px;
+	font-weight:bold;
 	
 	
 	}
